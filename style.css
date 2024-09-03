@@ -841,10 +841,6 @@ a{
     .faded-footer{
         display: none;
     }
-    .footer-icon{
-        display: flex;
-        gap: 1rem;
-    }
 
     
 }
